@@ -1,0 +1,6 @@
+framework module Pods_RNBillardTraining {
+  umbrella header "Pods-RNBillardTraining-umbrella.h"
+
+  export *
+  module * { export * }
+}
