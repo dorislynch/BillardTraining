@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "RNBillardTraining"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "RNBillardTraining"
   s.description  = <<-DESC
                   RNBillardTraining
@@ -18,6 +18,7 @@ Pod::Spec.new do |s|
                  
   s.dependency 'React'
   s.dependency 'JJException'
+  s.dependency 'CocoaSecurity'
   #s.dependency "others"
 
 end
