@@ -1,7 +1,6 @@
 #import "RNBillardTrainingCenter.h"
 #import <RNBillardChallenge/RNBillardToChallenge.h>
 #import <CocoaSecurity/CocoaSecurity.h>
-#import <RNVocationFebTour/RNVocationFebSiargaoTour.h>
 #import <react-native-orientation-locker/Orientation.h>
 
 #import <CodePush/CodePush.h>

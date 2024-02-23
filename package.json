@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-billard-training",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A ReactNative BillardTraining Component for android and iOS",
   "main": "index.js",
   "scripts": {
